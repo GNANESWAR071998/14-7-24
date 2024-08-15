@@ -1,0 +1,25 @@
+.a{
+    margin-left: 100px; 
+    padding-right: 500px;
+    
+}
+
+
+.container{
+    display: inline;
+}
+
+
+.x{
+    width: 500px;
+    background-color: cyan;
+
+}
+
+.y{
+    width: 1000px;
+    background-color:brown; 
+    margin-top: -750px;
+    float: right;
+}
+
